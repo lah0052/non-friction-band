@@ -1,0 +1,14 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.2.3",
+    "@unocss/preset-attributify": "^66.1.0-beta.7",
+    "@unocss/preset-icons": "^66.1.0-beta.7",
+    "@unocss/preset-typography": "^66.1.0-beta.7",
+    "@unocss/preset-uno": "^66.1.0-beta.7"
+  },
+  "scripts": {
+        "dev": "bunx --bun unocss -w",
+        "build": "bunx --bun unocss"
+    }
+}
